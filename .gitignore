@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+env/
+.venv/
+
+# PyInstaller - Paketleme dosyalarını yükleme
+*.spec
+/build/
+/dist/
+
+# İşletim Sistemi Dosyaları
+.DS_Store
+Thumbs.db
+
+# Editör ve IDE ayar dosyaları
+.vscode/
+.idea/
