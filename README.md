@@ -1,6 +1,7 @@
 ﻿⚡ Recon-X - Web Keşif ve Tarama Aracı
 Python ve modern web teknolojileri (HTML/CSS/JS) kullanılarak geliştirilmiş; bir web sitesinin keşif ve başlangıç seviyesi zafiyet taramasını yapan interaktif bir masaüstü uygulaması.
 
+![image](https://github.com/user-attachments/assets/deafc795-62e5-4e69-ac2c-f1904da0b68c)
 
   
 
