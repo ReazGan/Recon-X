@@ -66,6 +66,11 @@ To convert the source code into a single .exe file that runs on any Windows mach
 pyinstaller --noconfirm --onefile --windowed --add-data "web;web" app.py
 
             * The --windowed flag prevents the black console window from appearing in the background.
+
+
+
+www.baranayaztas.com.tr
             3. The generated .exe file will be located in the dist folder.
 ⚠️ Ethical Use Disclaimer
 This tool has been developed for educational and legal testing purposes only. NEVER use this tool on systems you do not own or have explicit permission to test. Unauthorized scanning is illegal and constitutes a cybercrime.
+
