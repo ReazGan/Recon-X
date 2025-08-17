@@ -5,7 +5,6 @@ import re
 import os
 from concurrent.futures import ThreadPoolExecutor
 
-# Arayüz dosyalarının bulunduğu klasörün yolunu belirliyoruz.
 script_dir = os.path.dirname(os.path.realpath(__file__))
 web_folder = os.path.join(script_dir, 'web')
 eel.init(web_folder)
@@ -97,5 +96,5 @@ def start_scan(target, scan_type):
     scan_thread.start()
 
 if __name__ == "__main__":
-    # DÜZELTME: port=0 parametresini ekleyerek Eel'in rastgele boş bir port bulmasını sağlıyoruz.
     eel.start('index.html', size=(900, 700), port=0)
+
